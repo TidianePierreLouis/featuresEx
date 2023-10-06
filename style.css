@@ -1,0 +1,22 @@
+.h{
+    height: 7vh;
+}
+.set{
+    justify-content: space-between;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: row;
+}
+
+.set2{
+    width: 130px;
+}
+
+.purple{
+    width: 30px;
+    height: 30px;
+    background-color: #7E6EF9;
+    border-radius: 50%;
+    background-size: contain;
+    border: 1px white solid;
+}
